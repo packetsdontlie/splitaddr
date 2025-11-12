@@ -26,6 +26,7 @@ source_occupancyidentifier   | 200
 * t5addr.py - uses HuggingFace T5
 * flanaddr.py - uses Google T5 Flan
 * state-mangler.data - a large lookup table of possible state values mapped to their two letter codes
+* lpaddr.py - uses libPostal with C wrappers, it ain't pretty
 
 # Environment
 
